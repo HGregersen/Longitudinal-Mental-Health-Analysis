@@ -15,5 +15,5 @@ This project represents the culmination of what we learned in COGS 108. It also 
   * Support Vector Machine (SVM) Classifier
 * **Evaluation Tools:**
   * Confusion matrices
-  * Performance graphs
-While we explored other models and techniques during the course, we chose these methods as they best suited our research question and helped us gain deeper insights.
+  * Performance graphs  
+While we had learned about more models and techniques we could have utilized, we thought that these all would help us best understand our question.
