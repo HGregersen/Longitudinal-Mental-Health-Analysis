@@ -13,7 +13,7 @@ This project represents the culmination of what we learned in COGS 108. It also 
 * **Machine Learning Models:**
   * Random Forest Regression
   * Support Vector Machine (SVM) Classifier
-* ***Evaluation Tools:**
+* **Evaluation Tools:**
   * Confusion matrices
   * Performance graphs
 While we explored other models and techniques during the course, we chose these methods as they best suited our research question and helped us gain deeper insights.
